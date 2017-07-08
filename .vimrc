@@ -1,4 +1,5 @@
 """" Vim bundles
+"" (Change /home/bdg/ to your own path.)
 
 if filereadable("/home/bdg/.vundle.vim")
   source /home/bdg/.vundle.vim

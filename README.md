@@ -10,8 +10,9 @@ Recording my configurations of VIM.  Tested under [Debian Jessie](https://www.de
 
 ## Usage
 
-1. Put `.vimrc` and `.vundle.vim` to your own user directory `~/`.
-2. Open `.vundle.vim` with vim then execute blow cmd
+1. Put `.vimrc` and `.vundle.vim` to your user home directory `~/`.
+2. Open `.vimrc` and replace all the user home directory to your own.
+3. Open `.vundle.vim` with vim then execute blow cmd
 
         $ :PluginInstall
 
